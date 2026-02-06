@@ -1,2 +1,9 @@
-# CV
-Curriculum vitae actualizado de Benjamín Rodríguez Valdez, con enfoque en análisis de datos, cómputo científico y educación científica.
+# Curriculum Vitae
+
+Curriculum vitae de Benjamín Rodríguez Valdez.
+
+## 📄 Archivo
+- `Benjamin_Rodriguez_Valdez_CV.pdf`
+
+## 🔄 Actualización
+Última actualización: Febrero 2026.
